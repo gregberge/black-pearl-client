@@ -1,6 +1,6 @@
 {
   "name": "black-pearl-client",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Ultra simple client to push metrics in a Elastic Search + Kibana.",
   "main": "index.js",
   "scripts": {
