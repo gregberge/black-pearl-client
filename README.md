@@ -1,4 +1,4 @@
-# black-pearl-client
+# black-pearl-client [![Build Status](https://travis-ci.org/neoziro/black-pearl-client.png?branch=master)](https://travis-ci.org/neoziro/black-pearl-client)
 
 Ultra simple client to push metrics in a Elastic Search + Kibana.
 
